@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I'm a Full-stack Developer learner. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am Full-stack Developer learner. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Python,HTML,CSS,JavaScript,and SQL
 
@@ -17,7 +17,7 @@ I'm a Full-stack Developer learner. I love tackling complex problems, learning n
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/joelmutiso/)
+[- **[LinkedIn]**()](https://www.linkedin.com/in/joelmutiso/)
 
 
 

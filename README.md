@@ -1,4 +1,4 @@
-# Hi there, I'm [Joel Mutiso]! 👋
+# Hi there, I'm Joel Mutiso! 👋
 
 ![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fclub-infosphere%2Ffull-stack-web-developer-a-guide-to-learn-787aaf659bfa&psig=AOvVaw2NI_CnFI4tW6tVNZROKnuN&ust=1746702311687000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCth7KbkY0DFQAAAAAdAAAAABAE)
 
@@ -6,7 +6,7 @@
 
 I'm a Full-stack Developer learner. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Python,HTML,CSS,JavaScript,and SQL]**
+- 🌱 Currently learning: Python,HTML,CSS,JavaScript,and SQL
 
 ## My Skills 🧠
 

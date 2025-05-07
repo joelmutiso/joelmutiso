@@ -17,7 +17,7 @@ I am Full-stack Developer learner. I love tackling complex problems, learning ne
 
 ## Get in Touch 📬
 
-[- **[LinkedIn]**()](https://www.linkedin.com/in/joelmutiso/)
+[- **[LinkedIn]**(https://www.linkedin.com/in/joelmutiso/)
 
 
 

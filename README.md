@@ -1,6 +1,7 @@
 # Hi there, I'm Joel Mutiso! 👋
 
-![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fclub-infosphere%2Ffull-stack-web-developer-a-guide-to-learn-787aaf659bfa&psig=AOvVaw2NI_CnFI4tW6tVNZROKnuN&ust=1746702311687000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCth7KbkY0DFQAAAAAdAAAAABAE)
+![image](https://github.com/user-attachments/assets/8fdfbfb0-2b1d-43f6-8aef-cb268c43576f)
+
 
 ## About Me 🚀
 

@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Python+%26+Django+Developer;React+%26+Next.js+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Workspace&fontSize=50&animation=fadeIn" />
-</p>
-
 ---
 
 ### 💫 About Me
@@ -17,14 +13,6 @@
 - 🛠️ **Environment:** Coding on **WSL2/Linux** and optimizing workflows with **Bash/Shell scripting**.
 - 📱 **Mobile Goals:** Transitioning React knowledge into **React Native**.
 - 🔒 **Security:** Passionate about **Cybersecurity fundamentals** and secure coding practices.
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
 
 ---
 
@@ -79,8 +67,8 @@
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_URL]" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/joelmutiso/]" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:joelwmutiso@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">

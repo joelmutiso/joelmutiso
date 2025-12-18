@@ -65,32 +65,14 @@
 
 ---
 
----
+### 🌟 Featured Project: Wonder Cakes 🍰
+> **Full-Stack Bakery Application:** A comprehensive solution for custom bakery orders, featuring a secure Django REST API and a mobile-responsive React interface.
 
-## ⭐ Featured Capstone Project: [Project Name, e.g., Wonder Cakes]
+- 🛠️ **Backend:** Django, Django REST Framework, JWT Authentication
+- 🎨 **Frontend:** React, Tailwind CSS, Responsive UI/UX
+- 🔗 **Repo:** [joelmutiso/Capstone_Project](https://github.com/joelmutiso/Capstone_Project.git)
 
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/placeholder-image-url.png" alt="Project Banner" width="800">
-</p>
-
-**[One sentence pitch: e.g., A premium, mobile-responsive e-commerce platform for bespoke bakery orders, featuring a custom cake builder and secure checkout.]**
-
-### 🚀 Key Features
-- 📱 **Mobile-First Design:** Fully responsive UI built with **Tailwind CSS** for a seamless experience on all devices.
-- 🔐 **Secure Authentication:** Integrated **Django REST Framework** with JWT/OAuth for protected user profiles.
-- 🛒 **Dynamic State Management:** Used **React Hooks (or Zustand/Redux)** for real-time cart updates and cake customization.
-- ⚡ **Optimized Performance:** Leveraged **Next.js** SSR/SSG for lightning-fast page loads and SEO.
-- 🐳 **Containerized Deployment:** (In progress) Setting up **Docker** and **Jenkins** for automated CI/CD.
-
-### 🛠️ Built With
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
-
-[🔗 View Live Demo](https://your-demo-link.com) | [📂 Explore Code](https://github.com/your-username/your-repo-name)
+**[Read the Full Documentation & Setup Guide →](https://github.com/joelmutiso/Capstone_Project#readme)**
 
 ---
 

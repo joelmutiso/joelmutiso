@@ -1,17 +1,34 @@
-# <p align="center">👋 Hi, I'm Joel Mutiso</p>
-
+<p align="center">👋 Hi, I'm Joel Mutiso</p>
+<div align="center">
+🚀 Full Stack Software Engineer | 🎨 Digital Craftsman | ⚡ Code Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;Python+%26+Django+Developer+%F0%9F%90%8D;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=300&section=header&text=JOEL%20MUTISO&fontSize=90&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" />
 </p>
+<div align="center">
+  <!-- Animated Wave -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=header&animation=fadeIn" />
+  <!-- Tech Stack Badges with Animation -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
+<br/><br/>
+  <!-- Animated Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
+<br/><br/>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Wave Separator -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Software+Engineer;Python+%26+Django+Expert;React+%26+Next.js+Specialist;React+Native+%7C+GraphQL+%7C+Jenkins;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mobile--Responsive-Ready-36BCF7?style=for-the-badge&logo=responsive" /> 
-  <img src="https://img.shields.io/badge/Status-Building%20Innovation-white?style=for-the-badge" />
-</p>
+<div align="center">
+💫 "Building elegant solutions, one commit at a time"
+</div>
 
 ---
 

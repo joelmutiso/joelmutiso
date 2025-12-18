@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Python+%26+Django+Developer;React+%26+Next.js+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
+---
+
 ### 💫 About Me
 
 - 🔭 **Current Focus:** Building scalable web applications using **Django** and **React**.
@@ -63,9 +65,37 @@
 
 ---
 
+---
+
+## ⭐ Featured Capstone Project: [Project Name, e.g., Wonder Cakes]
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/placeholder-image-url.png" alt="Project Banner" width="800">
+</p>
+
+**[One sentence pitch: e.g., A premium, mobile-responsive e-commerce platform for bespoke bakery orders, featuring a custom cake builder and secure checkout.]**
+
+### 🚀 Key Features
+- 📱 **Mobile-First Design:** Fully responsive UI built with **Tailwind CSS** for a seamless experience on all devices.
+- 🔐 **Secure Authentication:** Integrated **Django REST Framework** with JWT/OAuth for protected user profiles.
+- 🛒 **Dynamic State Management:** Used **React Hooks (or Zustand/Redux)** for real-time cart updates and cake customization.
+- ⚡ **Optimized Performance:** Leveraged **Next.js** SSR/SSG for lightning-fast page loads and SEO.
+- 🐳 **Containerized Deployment:** (In progress) Setting up **Docker** and **Jenkins** for automated CI/CD.
+
+### 🛠️ Built With
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+
+[🔗 View Live Demo](https://your-demo-link.com) | [📂 Explore Code](https://github.com/your-username/your-repo-name)
+
+---
+
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/joelmutiso/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="joelwmutiso@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
